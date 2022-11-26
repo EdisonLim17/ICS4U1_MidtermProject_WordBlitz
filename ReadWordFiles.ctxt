@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ReadWordFiles
+comment0.text=\r\n\ Class\ ReadWordFiles\r\n\ Saves\ All\ The\ Words\ From\ The\ Files\ To\ Their\ Corresponding\ ArrayList\ (Word\ Files\ Must\ Be\ In\ The\ Same\ Directory)\r\n\ \r\n\ @author\ Edison\ Lim,\ Vaughn\ Chan,\ Jaylen\ Cheung\r\n\ @version\ November\ 10,\ 2021\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ readWordFiles()
+numComments=2

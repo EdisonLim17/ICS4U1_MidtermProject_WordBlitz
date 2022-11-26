@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CorrectWordOverlay
+comment0.text=\r\n\ Actor\ CorrectWordOverlay\r\n\ Displays\ The\ Correct\ Letters\ The\ Player\ Has\ Typed\ In\ Green\ On\ Top\ Of\ The\ Current\ Word\r\n\ \r\n\ @author\ Edison\ Lim,\ Vaughn\ Chan,\ Jaylen\ Cheung\r\n\ @version\ November\ 10,\ 2021\r\n
+comment1.params=
+comment1.target=CorrectWordOverlay()
+comment1.text=\r\n\ Constructor\ for\ the\ correct\ word\ overlay\r\n
+comment2.params=word\ numCorrect\ clear
+comment2.target=void\ setCorrectOverlay(java.lang.String,\ int,\ boolean)
+comment2.text=\r\n\ Display\ correct\ letters\ in\ green\ text\ over\ the\ existing\ ones\ to\ show\ which\ letters\ have\ been\ typed\ correcty\r\n\ @param\ word\ Current\ word\r\n\ @param\ numCorrect\ Number\ of\ correct\ letters\r\n\ @param\ clear\ If\ true,\ clear\ the\ overlay\r\n
+numComments=3

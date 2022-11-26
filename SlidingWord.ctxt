@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SlidingWord
+comment0.text=\r\n\ Actor\ SlidingWord\r\n\ Slides\ A\ Word\ Into/Out\ Of\ The\ WordBox\r\n\ \r\n\ @author\ Edison\ Lim,\ Vaughn\ Chan,\ Jaylen\ Cheung\r\n\ @version\ November\ 10,\ 2021\r\n
+comment1.params=
+comment1.target=SlidingWord()
+comment1.text=\r\n\ Constructor\ for\ the\ sliding\ word\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method.\ Slides\ a\ word\ if\ there\ is\ one\ in\ queue\r\n
+comment3.params=word\ x\ y\ y2\ bold
+comment3.target=void\ setSlidingWord(java.lang.String,\ int,\ int,\ int,\ boolean)
+comment3.text=\r\n\ Set\ a\ new\ word\ to\ slide\r\n\ @param\ word\ Word\ to\ slide\r\n\ @param\ x\ Starting\ x\ value\r\n\ @param\ y\ Starting\ y\ value\r\n\ @param\ y2\ Ending\ y\ value\r\n
+numComments=4

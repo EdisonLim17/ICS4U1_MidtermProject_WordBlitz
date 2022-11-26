@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WordBox
+comment0.text=\r\n\ Actor\ WordBox\r\n\ Displays\ All\ The\ Words\ In\ The\ Word\ Queue.\r\n\ \r\n\ @author\ Edison\ Lim,\ Vaughn\ Chan,\ Jaylen\ Cheung\r\n\ @version\ November\ 10,\ 2021\r\n
+comment1.params=queue
+comment1.target=WordBox(java.util.Queue)
+comment1.text=\r\n\ Constructor\ for\ the\ word\ box\r\n
+comment2.params=queue
+comment2.target=void\ setWordBox(java.util.Queue)
+comment2.text=\r\n\ Updates\ the\ word\ box\ with\ new\ words\r\n\ @param\ queue\ Queue\ of\ words\r\n
+numComments=3

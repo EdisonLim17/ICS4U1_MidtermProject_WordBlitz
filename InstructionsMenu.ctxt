@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InstructionsMenu
+comment0.text=\r\n\ World\ InstructionsMenu\r\n\ Screen\ Showing\ Game\ Instructions\r\n\ \r\n\ @author\ Edison\ Lim,\ Vaughn\ Chan,\ Jaylen\ Cheung\r\n\ @version\ November\ 10,\ 2021\r\n
+comment1.params=
+comment1.target=InstructionsMenu()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InstructionsMenu.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method.\ Checks\ for\ button\ press.\r\n
+numComments=3

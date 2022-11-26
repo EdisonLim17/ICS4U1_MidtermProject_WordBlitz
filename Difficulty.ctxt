@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Difficulty
+comment0.text=\r\n\ Enum\ Difficulty\r\n\ Sets\ Game\ Difficulty\r\n\ \r\n\ @author\ Edison\ Lim,\ Vaughn\ Chan,\ Jaylen\ Cheung\r\n\ @version\ November\ 10,\ 2021\r\n
+comment1.params=speed
+comment1.target=Difficulty(float)
+numComments=2

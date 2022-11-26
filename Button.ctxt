@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Actor\ Button\r\n\ Contains\ A\ Label\ And\ Changes\ Color\ When\ The\ User\ Hovers\ Over\ It\ With\ The\ Mouse\r\n\ \r\n\ @author\ Edison\ Lim,\ Vaughn\ Chan,\ Jaylen\ Cheung\r\n\ @version\ November\ 10,\ 2021\r\n
+comment1.params=label\ bgColor\ outlineColor\ labelColor\ hoverColor\ flashColor
+comment1.target=Button(java.lang.String,\ greenfoot.Color,\ greenfoot.Color,\ greenfoot.Color,\ greenfoot.Color,\ greenfoot.Color)
+comment1.text=\r\n\ Constructor\ for\ the\ button\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method.\ Changes\ the\ appearance\ of\ the\ button\r\n
+comment3.params=label
+comment3.target=void\ update(java.lang.String)
+comment3.text=\r\n\ Changed\ the\ button's\ label\r\n
+comment4.params=labelColor\ bgColor
+comment4.target=void\ changeColor(greenfoot.Color,\ greenfoot.Color)
+comment4.text=\r\n\ Changes\ the\ label\ and\ background\ color\ to\ the\ colors\ set\ in\ the\ parameter\r\n
+comment5.params=duration
+comment5.target=void\ flash(int)
+comment5.text=\r\n\ Flashes\ the\ button\ for\ the\ duration\ set\ in\ the\ parameter\r\n
+comment6.params=
+comment6.target=boolean\ isHovering()
+comment6.text=\r\n\ Returns\ true\ if\ the\ mouse\ is\ currently\ hovering\ the\ button\r\n
+comment7.params=flashing
+comment7.target=void\ drawButton(boolean)
+comment7.text=\r\n\ Draws\ the\ button\r\n
+numComments=8

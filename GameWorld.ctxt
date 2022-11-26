@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment0.text=\r\n\ World\ GameWorld\r\n\ Main\ Game\ World\r\n\ \ \r\n\ @author\ Edison\ Lim,\ Vaughn\ Chan,\ Jaylen\ Cheung\r\n\ @version\ November\ 10,\ 2021\r\n
+comment1.params=speed
+comment1.target=GameWorld(float)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method.\ Handles\ general\ gameplay\r\n
+comment3.params=enter\ key
+comment3.target=void\ checkWords(boolean,\ java.lang.String)
+comment3.text=\r\n\ Handle\ the\ gameplay\ (checks\ for\ input\ and\ see\ if\ it\ matches\ the\ word)\r\n
+comment4.params=amount
+comment4.target=java.util.ArrayList\ generateWords(int)
+comment4.text=\r\n\ Generate\ a\ random\ ArrayList\ of\ words\r\n\ @param\ amount\ Amount\ of\ words\ to\ generate\r\n
+numComments=5

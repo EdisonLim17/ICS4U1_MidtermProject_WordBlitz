@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StatDisplay
+comment0.text=\r\n\ Actor\ StatDisplay\r\n\ Displays\ The\ Following\ Stats\:\ Score,\ WPM,\ Accuracy\r\n\ \r\n\ @author\ Edison\ Lim,\ Vaughn\ Chan,\ Jaylen\ Cheung\r\n\ @version\ November\ 10,\ 2021\r\n
+comment1.params=score
+comment1.target=StatDisplay(int)
+comment1.text=\r\n\ Constructor\ for\ the\ stat\ display\r\n
+comment2.params=score\ gameTime\ correct\ incorrect
+comment2.target=void\ update(int,\ int,\ int,\ int)
+comment2.text=\r\n\ Updates\ the\ player's\ stats\r\n
+comment3.params=
+comment3.target=void\ drawStatDisplay()
+comment3.text=\r\n\ Draws\ the\ stat\ display\r\n
+numComments=4
